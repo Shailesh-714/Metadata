@@ -1,0 +1,5 @@
+cctv_env/
+
+__pycache__/
+
+frames/
