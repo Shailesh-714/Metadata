@@ -22,6 +22,6 @@ def data_augmentation(image_dir, output_dir):
     # Implement your augmentation logic here
     pass
 
-# Example usage
+
 extract_frames('cctv_footage.mp4', 'frames')
 data_augmentation('frames', 'augmented_frames')
