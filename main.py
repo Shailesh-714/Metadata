@@ -8,7 +8,7 @@ from activity_recognition import I3D
 from event_detection import detect_events
 from summarization import summarize_events
 
-# Load YOLOv5 model
+# Load YOLOv5 models
 object_detection_model = YOLO('yolov5su.pt')
 
 # Load I3D model
